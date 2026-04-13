@@ -57,7 +57,7 @@ Data is sent to ThingSpeak cloud:
 
 ## 📷 Prototype
 <p align="center">
-  <img src="prototype.png" width="250">
+  <img src="prototype.png.jpeg" width="250">
 </p>
 
 ---
